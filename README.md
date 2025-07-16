@@ -42,6 +42,8 @@ Hi there! I'm **Khushant Sharma**, a Computer Science undergrad and aspiring Ful
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khushant15&show_icons=true&theme=tokyonight" />
   <br/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Khushant15&theme=tokyonight" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushant15&layout=compact&theme=tokyonight" />
 </p>
 
