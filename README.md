@@ -50,5 +50,5 @@ Hi there! I'm **Khushant Sharma**, a Computer Science undergrad and aspiring Ful
 ---
 
 ## 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khushant-sharma/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khushant-sharma-9318962b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📬 Email: khushantsharma766@gmail.com  
