@@ -11,16 +11,16 @@ My journey is all about **learning by building**, and I aim to create impactful,
 ## 🚀 Projects
 
 - 🤖 **CodeBuddy** – AI-powered coding & debugging platform  
-  🔗 https://github.com/Khushant15/CodeBuddy  
+  🔗 https://github.com/Khushant15/CodeBuddyWebApp  
 
 - 📚 **PrepBuddy** – smart preparation & learning platform  
-  🔗 https://github.com/Khushant15/PrepBuddy  
+  🔗 https://github.com/Khushant15/v0-interview-prep-web-app  
 
-- 📱 **Calmly App** – meditation & sleep sounds Android app  
-  🔗 https://github.com/Khushant15/Calmly  
+- 🌐 **Personal Portfolio** – modern portfolio built with React & Tailwind  
+  🔗 https://github.com/Khushant15/khushant-portfolio  
 
-- 📧 **AI Email Sender** – prompt-based email generator  
-  🔗 https://github.com/Khushant15/ai-email-sender  
+- 💼 **SaaS Landing Page** – modern UI landing page project  
+  🔗 https://github.com/Khushant15/SaaS-Landing-Page  
 
 ---
 
