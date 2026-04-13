@@ -223,8 +223,11 @@ const currentFocus = {
 
 <img src="https://ghchart.rshah.org/3B82F6/Khushant15" alt="Khushant's Github chart" width="100%" />
 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushant15&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushant15&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+</div>
 ---
-
 ## 📫 Let's Connect!
 
 <div align="center">
