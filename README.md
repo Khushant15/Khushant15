@@ -40,32 +40,26 @@ I'm passionate about creating **intelligent, scalable applications** that solve 
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 CodeBuddy
-**AI-Powered Coding & Debugging Platform**
-
-An intelligent coding assistant that helps developers write better code, debug faster, and learn more effectively using AI.
-
-**Tech Stack:** React, Node.js, AI APIs, Firebase
-
-🔗 [View Repository](https://github.com/Khushant15/CodeBuddyWebApp)
+### 🤖 [CodeBuddy](https://github.com/Khushant15/CodeBuddy)
+**AI-Powered Debugging & Coding Ecosystem**
+An intelligent platform designed to streamline developer workflows by integrating real-time execution with AI-assisted debugging and code optimization.
+**Tech:** React, Node.js, Firebase, Gemini/Claude APIs
 
 </td>
 <td width="50%">
 
-### 📚 PrepBuddy
-**Smart Learning & Preparation Platform**
-
-An adaptive learning system that personalizes study materials and tracks progress for effective exam preparation.
-
-**Tech Stack:** Next.js, PostgreSQL, AI Integration
-
-🔗 [View Repository](https://github.com/Khushant15/v0-interview-prep-web-app)
+### 💼 [CareerSync-AI](https://github.com/Khushant15/CareerSync-AI)
+**AI-Driven Career Optimization Suite**
+An advanced system for synchronizing career goals with industry demands, leveraging AI to analyze resumes, track applications, and provide market-aligned insights.
+**Tech:** Next.js, OpenAI API, Tailwind CSS, PostgreSQL
 
 </td>
 </tr>
@@ -73,26 +67,18 @@ An adaptive learning system that personalizes study materials and tracks progres
 <tr>
 <td width="50%">
 
-### 🌐 Personal Portfolio
-**Modern Developer Portfolio**
-
-A sleek, responsive portfolio showcasing my projects and skills with smooth animations and modern design.
-
-**Tech Stack:** React, Tailwind CSS, Framer Motion
-
-🔗 [View Repository](https://github.com/Khushant15/khushant-portfolio)
+### 📚 [PrepBuddy](https://github.com/Khushant15/PrepBuddy)
+**Adaptive Learning & Interview Readiness**
+A comprehensive full-stack solution for automated interview preparation, featuring AI mock interviews, technical assessment logic, and progress tracking.
+**Tech:** Next.js (App Router), PostgreSQL, Tailwind CSS
 
 </td>
 <td width="50%">
 
-### 💼 SaaS Landing Page
-**Modern UI Landing Page**
-
-A beautifully designed landing page template for SaaS products with modern UI/UX principles.
-
-**Tech Stack:** React, Tailwind CSS, Responsive Design
-
-🔗 [View Repository](https://github.com/Khushant15/SaaS-Landing-Page)
+### 🛡️ [CodeShield](https://github.com/Khushant15/CodeShield)
+**Static Analysis & Security Tooling**
+A security-focused project designed to identify critical vulnerabilities like SQL injection and XSS in user-submitted code snippets before deployment.
+**Tech:** TypeScript, Python, Security Heuristics
 
 </td>
 </tr>
@@ -147,7 +133,6 @@ A beautifully designed landing page template for SaaS products with modern UI/UX
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 </details>
@@ -156,7 +141,6 @@ A beautifully designed landing page template for SaaS products with modern UI/UX
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -169,9 +153,7 @@ A beautifully designed landing page template for SaaS products with modern UI/UX
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 </details>
 
