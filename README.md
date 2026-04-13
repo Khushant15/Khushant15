@@ -204,11 +204,11 @@ A beautifully designed landing page template for SaaS products with modern UI/UX
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```mermaid
 graph LR
-    A[2025 Goals] --> B[Build 5+ Production Apps]
+    A[2026 Goals] --> B[Build 5+ Production Apps]
     A --> C[Contribute to Open Source]
     A --> D[Learn Advanced System Design]
     A --> E[Secure Developer Internship]
@@ -251,7 +251,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushant-sharma-9318962b2)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushantsharma766@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Khushant15/khushant-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khushant-portfolio.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=Khushant15&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
 
